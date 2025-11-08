@@ -1,5 +1,37 @@
-# 💫 About Me:
-### 🔭 I’m currently working on<br>- Building Mobile Apps (Android/Flutter)<br>- Final Project: Opname Checklist System with RAB Calculation<br>- Gesture Detection using MediaPipe<br><br>### 🤝 I’m looking to collaborate on<br>- Android & Flutter projects<br>- AI / Computer Vision<br>- Any open-source projects that improve productivity<br><br>### 🆘 I’m looking for help with<br>- Optimization for mobile UI/UX<br>- Backend performance and DevOps automation<br><br>### 🌱 I’m currently learning<br>- AI Deployment & Cloud Services<br>- Modern Android Architecture (MVVM + Clean Architecture)<br>- WebRTC & Real-time Streaming<br><br>### 💬 Ask me about<br>- Mobile Development<br>- RMI / Client-Server Apps<br>- SQL Server & Database Optimization<br><br>### ⚡ Fun fact<br>I love tech debugging at midnight ☕ and retro Nokia games 🎮<br>
+<p align="center">
+  <img src="assets/banner.gif" alt="Welcome Banner" width="900"/>
+</p>
+
+<h1 align="center">Hi there 👋 I'm Wahyu Eka Candra</h1>
+<h3 align="center">Tech Enthusiast • Mobile Developer • Curious Mind</h3>
+
+---
+
+### 🔭 I’m currently working on
+- Working in a private company in Indonesia
+- Working in the construction field for convenience stores, a bit different from my hobby, but that’s what makes life fun 😄
+
+### 🤝 I’m looking to collaborate on
+- Android application development  
+- IoT (Internet of Things) projects  
+
+### 🆘 I’m looking for help with
+- Backend development best practices  
+- Improving UI/UX for mobile and web  
+
+### 🌱 I’m currently learning
+- Full-stack Web Development  
+- Android Application Programming  
+- Cybersecurity & Penetration Testing Basics  
+
+### 💬 Ask me about
+- Android firmware  
+- Mobile development and device system configurations  
+
+### ⚡ Fun fact
+I’m always curious about how the world works — if something exists, I want to know *why* 😆📚  
+
+---
 
 
 ## 🌐 Socials:
