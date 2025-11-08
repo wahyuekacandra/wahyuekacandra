@@ -2,8 +2,7 @@
   <img src="assets/banner.gif" alt="Welcome Banner" width="900"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm Wahyu Eka Candra</h1>
-<h3 align="center">Tech Enthusiast • Mobile Developer • Curious Mind</h3>
+<h1 align="center">Hi there 👋 I'm Why</h1>
 
 ---
 
